@@ -5,11 +5,16 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   snake:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: R-Jashwanth
@@ -20,5 +25,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          repo: R-Jashwanth/R-Jashwanth
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
