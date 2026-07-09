@@ -1,129 +1,214 @@
-# Hi there 👋 Welcome to my GitHub Profile
-
-I'm **Jashwanth**, a passionate developer and technology enthusiast dedicated to creating innovative solutions and contributing to the open-source community.
-
----
-
-## 👨‍💻 About Me
-
-I'm a full-stack developer with expertise in building scalable applications and solving complex technical problems. I'm passionate about clean code, best practices, and continuous learning. Whether[...]
-
-**Core Values:**
-- 🎯 **Excellence** - Striving for high-quality code and solutions
-- 🤝 **Collaboration** - Believing in the power of teamwork and open-source
-- 📚 **Learning** - Continuously expanding my technical knowledge
-- 💡 **Innovation** - Creating thoughtful, efficient solutions
-
----
-
-## 🛠️ Technical Skills
-
-### Languages
-- **Frontend:** JavaScript, TypeScript, HTML5, CSS3
-- **Backend:** Python, Node.js, JavaScript
-- **Databases:** SQL, NoSQL (MongoDB, Firebase)
-
-### Frameworks & Technologies
-- **Frontend:** React, Vue.js, Next.js
-- **Backend:** Express.js, Django, FastAPI
-- **Tools & Platforms:** Git, Docker, AWS, GCP, CI/CD pipelines
-- **Other:** REST APIs, GraphQL, Microservices
-
-### Specializations
-- Full-Stack Web Development
-- API Design & Development
-- Database Management
-- Cloud Infrastructure
-- DevOps & Deployment
-
----
-
-## 🌟 Featured Work
-
-Here are some projects I'm proud of:
-
-- **[AI Architect](https://github.com/R-Jashwanth/AI-Architect)** - Intelligent system design and architecture solutions powered by AI
-- **[SkillExchange](https://github.com/R-Jashwanth/SkillExchange)** - Android Skill Exchange Application
-- **[LLM Pipeline](https://github.com/R-Jashwanth/llm-document-pipeline)** - A comprehensive pipeline for managing and deploying Large Language Models
-
-*Check out my [repositories](https://github.com/R-Jashwanth?tab=repositories) for more projects and contributions.*
-
----
-
-## 🔭 Currently Working On
-
-- 🚀 Building modern web applications with cutting-edge technologies
-- 📱 Exploring mobile app development
-- 🤖 Diving deeper into AI/ML applications
-
----
-
-## 🌱 Currently Learning
-
-- Advanced System Design patterns
-- Cloud Architecture (AWS, GCP)
-- Machine Learning fundamentals
-- Kubernetes & Container Orchestration
-
----
-
-## 💬 Let's Connect
-
-I'm always open to:
-- 👯 Collaborating on interesting projects
-- 🤔 Discussing new ideas and technologies
-- 💡 Contributing to open-source initiatives
-- 📧 Networking with fellow developers
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R-Jashwanth&show_icons=true&theme=tokyonight)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Jashwanth&layout=compact&theme=tokyonight)
-  
+
+# Hi 👋, I'm Jashwanth R
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Full-Stack+Developer;Machine+Learning+%7C+LLMs+%7C+FastAPI;Building+Intelligent+Software+Solutions;Always+Learning+Something+New+🚀" />
+
+<img src="https://komarev.com/ghpvc/?username=R-Jashwanth&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+# 💫 About Me
 
-- ✅ Certification/Achievement 1
-- ✅ Certification/Achievement 2
-- ✅ Certification/Achievement 3
+```python
+class Jashwanth:
+
+    def __init__(self):
+        self.role = "AI Engineer"
+        self.location = "Bangalore, India 🇮🇳"
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "LLMs",
+            "Backend Engineering",
+            "Full Stack Development"
+        ]
+
+        self.currently_learning = [
+            "LangGraph",
+            "CrewAI",
+            "Kubernetes",
+            "Distributed Systems",
+            "System Design"
+        ]
+
+    def motto(self):
+        return "Build. Learn. Improve. Repeat."
+```
+
+- 🎓 AI & Data Science Undergraduate
+- 🤖 Passionate about AI-powered applications
+- 🚀 Building scalable backend systems with FastAPI
+- 🌐 Full-Stack Developer
+- 💡 Open Source Enthusiast
+- 📚 Lifelong Learner
 
 ---
 
-## 📫 Get In Touch
+# 🛠 Tech Stack
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-- **Website/Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+## Languages
 
----
-
-## 🎯 Goals for 2024-2025
-
-- [ ] Contribute to major open-source projects
-- [ ] Build and ship 3 production-level applications
-- [ ] Improve system design and architecture skills
-- [ ] Mentor junior developers
-- [ ] Publish technical blog posts
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
 
 ---
 
-## 💝 Support & Feedback
+## AI / ML
 
-If you find my projects useful, consider giving them a ⭐ star! Your feedback and contributions are always welcome.
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+---
+
+## Frameworks
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=nextdotjs)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+
+---
+
+## Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+
+---
+
+## Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+# 🚀 Featured Projects
+
+### 🏠 AI Architect
+
+> Intelligent system design and architecture solutions powered by AI.
+
+🔗 https://github.com/R-Jashwanth/AI-Architect
+
+---
+
+### 🤝 SkillExchange
+
+> Android Skill Exchange Application
+
+🔗 https://github.com/R-Jashwanth/SkillExchange
+
+---
+
+### 📄 LLM Pipeline
+
+> Comprehensive pipeline for managing and deploying Large Language Models.
+
+🔗 https://github.com/R-Jashwanth/llm-document-pipeline
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-**Happy Coding! 🚀**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=R-Jashwanth&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-*Made with ❤️ by Jashwanth*
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Jashwanth&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Jashwanth&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=R-Jashwanth&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/R-Jashwanth/R-Jashwanth/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=R-Jashwanth&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- 🤖 AI Agents
+- ⚡ LangGraph
+- 🧠 CrewAI
+- ☸️ Kubernetes
+- 🏗️ System Design
+- 🌐 Distributed Systems
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/R-Jashwanth">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:jashwanthr975@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Code. Learn. Build. Repeat."
+
+*"The best way to predict the future is to build it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:7B68EE&height=120&section=footer"/>
 
 </div>
