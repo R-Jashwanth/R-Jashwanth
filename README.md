@@ -2,9 +2,7 @@
 
 # Hi 👋, I'm Jashwanth R
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Full-Stack+Developer;LLM+%26+System+Design+Enthusiast;Building+Scalable+AI+Solutions" />
-
-<img src="https://komarev.com/ghpvc/?username=R-Jashwanth&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Full-Stack+Developer" />
 
 </div>
 
@@ -119,54 +117,6 @@ class Jashwanth:
 > Comprehensive pipeline for managing and deploying Large Language Models. Production-ready LLM integration framework.
 
 🔗 [View Repository](https://github.com/R-Jashwanth/llm-document-pipeline)
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=R-Jashwanth&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Jashwanth&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Jashwanth&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=R-Jashwanth&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/R-Jashwanth/R-Jashwanth/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=R-Jashwanth&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
 
 ---
 
