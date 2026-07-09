@@ -2,7 +2,9 @@
 
 # Hi 👋, I'm Jashwanth R
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Full-Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Full-Stack+Developer;LLM+%26+System+Design+Enthusiast;Building+Scalable+AI+Solutions" />
+
+<img src="https://komarev.com/ghpvc/?username=R-Jashwanth&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -94,22 +96,6 @@ class Jashwanth:
 
 ---
 
-# 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=R-Jashwanth&theme=algolia&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-# 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R-Jashwanth/R-Jashwanth/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/R-Jashwanth/R-Jashwanth/dist/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/R-Jashwanth/R-Jashwanth/dist/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
 # 🚀 Featured Projects
 
 ### 🏠 AI Architect
@@ -136,6 +122,54 @@ class Jashwanth:
 
 ---
 
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=R-Jashwanth&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Jashwanth&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Jashwanth&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=R-Jashwanth&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/R-Jashwanth/R-Jashwanth/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=R-Jashwanth&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
 # 🌱 Currently Learning
 
 - 🤖 Advanced AI Agents & Multi-Agent Systems
@@ -147,7 +181,7 @@ class Jashwanth:
 
 ---
 
-# �� Let's Connect
+# 🤝 Let's Connect
 
 <p align="center">
 
