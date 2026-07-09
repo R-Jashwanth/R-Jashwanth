@@ -1,10 +1,16 @@
+
 <div align="center">
 
-# Hi 👋, I'm Jashwanth R
+# Hi 👋 I'm Jashwanth R
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Full-Stack+Developer;LLM+%26+System+Design+Enthusiast;Building+Scalable+AI+Solutions" />
+### Software Developer • AI/ML Enthusiast • AI & Data Science Undergraduate
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;FastAPI+•+React+•+LLMs;Open+Source+Enthusiast;Always+Learning+🚀"/>
 
-<img src="https://komarev.com/ghpvc/?username=R-Jashwanth&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<p>
+<img src="https://komarev.com/ghpvc/?username=R-Jashwanth&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/R-Jashwanth?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/R-Jashwanth?affiliations=OWNER&style=for-the-badge"/>
+</p>
 
 </div>
 
@@ -16,7 +22,7 @@
 class Jashwanth:
 
     def __init__(self):
-        self.role = "AI Engineer"
+        self.role = "AI/ML Enthusiast"
         self.location = "Bangalore, India 🇮🇳"
 
         self.interests = [
