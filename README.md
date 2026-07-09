@@ -6,7 +6,7 @@ I'm **Jashwanth**, a passionate developer and technology enthusiast dedicated to
 
 ## 👨‍💻 About Me
 
-I'm a full-stack developer with expertise in building scalable applications and solving complex technical problems. I'm passionate about clean code, best practices, and continuous learning. Whether it's frontend development, backend services, or DevOps, I enjoy working across the entire technology stack.
+I'm a full-stack developer with expertise in building scalable applications and solving complex technical problems. I'm passionate about clean code, best practices, and continuous learning. Whether[...]
 
 **Core Values:**
 - 🎯 **Excellence** - Striving for high-quality code and solutions
@@ -42,11 +42,11 @@ I'm a full-stack developer with expertise in building scalable applications and 
 
 Here are some projects I'm proud of:
 
-- **[Project Name]** - Brief description of what it does and its impact
-- **[Project Name]** - Brief description of what it does and its impact
-- **[Project Name]** - Brief description of what it does and its impact
+- **[AI Architect](https://github.com/R-Jashwanth/AI-Architect)** - Intelligent system design and architecture solutions powered by AI
+- **[SkillExchange](https://github.com/R-Jashwanth/SkillExchange)** - Android Skill Exchange Application
+- **[LLM Pipeline](https://github.com/R-Jashwanth/llm-document-pipeline)** - A comprehensive pipeline for managing and deploying Large Language Models
 
-*Check out my [repositories](#) for more projects and contributions.*
+*Check out my [repositories](https://github.com/R-Jashwanth?tab=repositories) for more projects and contributions.*
 
 ---
 
