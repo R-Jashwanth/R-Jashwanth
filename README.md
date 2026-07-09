@@ -94,6 +94,18 @@ class Jashwanth:
 
 ---
 
+# 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=R-Jashwanth&theme=algolia&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://github.com/R-Jashwanth/R-Jashwanth/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 # 🚀 Featured Projects
 
 ### 🏠 AI Architect
@@ -131,7 +143,7 @@ class Jashwanth:
 
 ---
 
-# 🤝 Let's Connect
+# �� Let's Connect
 
 <p align="center">
 
