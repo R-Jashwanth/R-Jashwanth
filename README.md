@@ -214,7 +214,7 @@ I enjoy turning ideas into working software—from AI-powered applications to fu
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://jashwanth-portfolio.vercel.app">
+<a href="https://jashwanth--portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
