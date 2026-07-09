@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Jashwanth R
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Full-Stack+Developer;Machine+Learning+%7C+LLMs+%7C+FastAPI;Building+Intelligent+Software+Solutions;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Full-Stack+Developer;LLM+%26+System+Design+Enthusiast;Building+Scalable+AI+Solutions" />
 
 <img src="https://komarev.com/ghpvc/?username=R-Jashwanth&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
@@ -22,7 +22,7 @@ class Jashwanth:
         self.interests = [
             "Artificial Intelligence",
             "Machine Learning",
-            "LLMs",
+            "LLMs & GenAI",
             "Backend Engineering",
             "Full Stack Development"
         ]
@@ -40,11 +40,11 @@ class Jashwanth:
 ```
 
 - 🎓 AI & Data Science Undergraduate
-- 🤖 Passionate about AI-powered applications
+- 🤖 Passionate about AI-powered applications & LLMs
 - 🚀 Building scalable backend systems with FastAPI
-- 🌐 Full-Stack Developer
+- 🌐 Full-Stack Developer with cloud expertise
 - 💡 Open Source Enthusiast
-- 📚 Lifelong Learner
+- 📚 Lifelong Learner & Problem Solver
 
 ---
 
@@ -65,6 +65,7 @@ class Jashwanth:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ---
 
@@ -77,20 +78,21 @@ class Jashwanth:
 
 ---
 
-## Databases
+## Databases & Tools
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
-## Cloud & Tools
+## Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
@@ -98,25 +100,25 @@ class Jashwanth:
 
 ### 🏠 AI Architect
 
-> Intelligent system design and architecture solutions powered by AI.
+> Intelligent system design and architecture solutions powered by AI. Advanced architectural patterns and design implementations.
 
-🔗 https://github.com/R-Jashwanth/AI-Architect
+🔗 [View Repository](https://github.com/R-Jashwanth/AI-Architect)
 
 ---
 
 ### 🤝 SkillExchange
 
-> Android Skill Exchange Application
+> Android Skill Exchange Application - A platform for peer-to-peer skill sharing and learning.
 
-🔗 https://github.com/R-Jashwanth/SkillExchange
+🔗 [View Repository](https://github.com/R-Jashwanth/SkillExchange)
 
 ---
 
-### 📄 LLM Pipeline
+### 📄 LLM Document Pipeline
 
-> Comprehensive pipeline for managing and deploying Large Language Models.
+> Comprehensive pipeline for managing and deploying Large Language Models. Production-ready LLM integration framework.
 
-🔗 https://github.com/R-Jashwanth/llm-document-pipeline
+🔗 [View Repository](https://github.com/R-Jashwanth/llm-document-pipeline)
 
 ---
 
@@ -170,12 +172,12 @@ class Jashwanth:
 
 # 🌱 Currently Learning
 
-- 🤖 AI Agents
-- ⚡ LangGraph
-- 🧠 CrewAI
-- ☸️ Kubernetes
-- 🏗️ System Design
-- 🌐 Distributed Systems
+- 🤖 Advanced AI Agents & Multi-Agent Systems
+- ⚡ LangGraph & LangChain Ecosystem
+- 🧠 CrewAI Framework
+- ☸️ Kubernetes & Container Orchestration
+- 🏗️ System Design & Microservices
+- 🌐 Distributed Systems & Real-time Processing
 
 ---
 
@@ -187,7 +189,7 @@ class Jashwanth:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/jashwanthr">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -195,7 +197,7 @@ class Jashwanth:
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://yourportfolio.com">
+<a href="https://jashwanth-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
