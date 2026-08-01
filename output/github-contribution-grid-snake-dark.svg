@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="140" viewBox="0 0 720 140" role="img" aria-label="GitHub contributions snake">
+  <title>GitHub contributions snake (embedded)</title>
+  <rect width="100%" height="100%" fill="#0b0f15"/>
+  <!-- Embedded contribution chart as an image fallback -->
+  <image href="https://ghchart.rshah.org/R-Jashwanth" x="0" y="10" width="720" height="120" preserveAspectRatio="xMidYMid meet"/>
+  <!-- Caption -->
+  <g font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="10" fill="#8b949e">
+    <text x="10" y="12">GitHub Contributions</text>
+    <text x="10" y="28">(If you want the animated "snake" generator instead, regenerate this SVG with your preferred generator.)</text>
+  </g>
+</svg>
