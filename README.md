@@ -137,7 +137,7 @@ I enjoy turning ideas into working software—from AI-powered applications to fu
 # 🐍 GitHub Contributions
 <div align="center">
 
-<img src="https://ghchart.rshah.org/R-Jashwanth" />
+<img src="output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
