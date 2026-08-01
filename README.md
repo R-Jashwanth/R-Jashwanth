@@ -4,7 +4,7 @@
 # Hi 👋 I'm Jashwanth R
 
 ### Software Developer • AI/ML Enthusiast • AI & Data Science Undergraduate
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;F[...]"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;F[...]
 
 <p>
 <p align="center">
@@ -137,7 +137,7 @@ I enjoy turning ideas into working software—from AI-powered applications to fu
 # 🐍 GitHub Contributions
 <div align="center">
 
-<img src="output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/R-Jashwanth/R-Jashwanth/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
